@@ -1,15 +1,13 @@
-****starting to cook***** at 2015-06-28 14:31:45.112699 (Ireland time)
+****starting to cook***** at 2015-06-28 14:33:53.655112 (Ireland time)
 
 cook_dir: /home/ubuntu/books/erincobo/erinbook1
-NO RECIPE FOUND AT: /home/ubuntu/books/erincobo/erinbook1/aboutme_raw/aboutme_recipe.txt
-Creating new recipe for: aboutme
+deleting previously generated contents of directory: /home/ubuntu/books/erincobo/erinbook1/debug
+Opening recipe for: /home/ubuntu/books/erincobo/erinbook1/aboutme_raw/aboutme_recipe.txt
+deleting previously generated contents of directory: /home/ubuntu/books/erincobo/erinbook1/aboutme_cooked
 Opening Point Of Sale data for: aboutme_raw/aboutme_pos_data.txt
-No Point of Sale data this time.
 front_matter count: 4
-creating new empty chapter:010
-creating new empty chapter:020
-creating new empty chapter:030
 chapter count: 3
 ePubChef is finished, see /aboutme_served.
 zipping up to .epub at: /home/ubuntu/books/erincobo/erinbook1/aboutme_served/aboutme.epub
+deleting previously generated contents of directory: /home/ubuntu/books/erincobo/erinbook1/aboutme_served
 All done
